@@ -1,0 +1,878 @@
+{
+  "input_documents": [
+    "Breakfast Ideas.pdf",
+    "Dinner Ideas - Mains_1.pdf",
+    "Dinner Ideas - Mains_2.pdf",
+    "Dinner Ideas - Mains_3.pdf",
+    "Dinner Ideas - Sides_1.pdf",
+    "Dinner Ideas - Sides_2.pdf",
+    "Dinner Ideas - Sides_3.pdf",
+    "Dinner Ideas - Sides_4.pdf",
+    "Lunch Ideas.pdf"
+  ],
+  "persona": "Food Contractor",
+  "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+  "ranked_sections": [
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Spaghetti Carbonara Ingredients:",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Chopped parsley for garnish Instructions:",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Mushroom Risotto Ingredients:",
+      "importance_rank": 3,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Shrimp Scampi Ingredients:",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Quiche Lorraine Ingredients:",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Stuffed Bell Peppers Ingredients:",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Beef Tacos Ingredients:",
+      "importance_rank": 7,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Kartoffelsalat (Potato Salad)",
+      "importance_rank": 8,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Crab Cakes Ingredients:",
+      "importance_rank": 9,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Taco shells or tortillas",
+      "importance_rank": 10,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Pork Chops with Apples Ingredients:",
+      "importance_rank": 11,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Chicken Marsala Ingredients:",
+      "importance_rank": 12,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Spaghetti Bolognese Ingredients:",
+      "importance_rank": 13,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Beef and Broccoli Ingredients:",
+      "importance_rank": 14,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Sliced green onions for garnish Instructions:",
+      "importance_rank": 15,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2",
+      "section_title": "Gomae (Spinach with Sesame Dressing)",
+      "importance_rank": 16,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Honey Garlic Pork Ribs Ingredients:",
+      "importance_rank": 17,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_4",
+      "section_title": "Pan con Tomate",
+      "importance_rank": 18,
+      "page_number": 0
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Thai Green Curry Ingredients:",
+      "importance_rank": 19,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2",
+      "section_title": "Green Bean Casserole",
+      "importance_rank": 20,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Butter Chicken Ingredients:",
+      "importance_rank": 21,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Stuffed Chicken Breasts Ingredients:",
+      "importance_rank": 22,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Käsespätzle (Cheese Noodles)",
+      "importance_rank": 23,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Chicken Stir-Fry Ingredients:",
+      "importance_rank": 24,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Shrimp and Grits Ingredients:",
+      "importance_rank": 25,
+      "page_number": 0
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Chili Con Carne Ingredients:",
+      "importance_rank": 26,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Pork Schnitzel Ingredients:",
+      "importance_rank": 27,
+      "page_number": 0
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Fish and Chips Ingredients:",
+      "importance_rank": 28,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Chopped cilantro for garnish Instructions:",
+      "importance_rank": 29,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Nom Du (Green Papaya Salad)",
+      "importance_rank": 30,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Fish Tacos Ingredients:",
+      "importance_rank": 31,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Beef Bourguignon Ingredients:",
+      "importance_rank": 32,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Chicken Pot Pie Ingredients:",
+      "importance_rank": 33,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Chopped parsley for garnish Instructions:",
+      "importance_rank": 34,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Fettuccine Alfredo Ingredients:",
+      "importance_rank": 35,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Chicken Piccata Ingredients:",
+      "importance_rank": 36,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_1",
+      "section_title": "Bratkartoffeln (Fried Potatoes)",
+      "importance_rank": 37,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Sweet and Sour Pork Ingredients:",
+      "importance_rank": 38,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Vegetable Stir-Fry Ingredients:",
+      "importance_rank": 39,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Teriyaki Chicken Ingredients:",
+      "importance_rank": 40,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Moroccan Chicken Tagine Ingredients:",
+      "importance_rank": 41,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Grilled Shrimp Skewers Ingredients:",
+      "importance_rank": 42,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Bamboo skewers Instructions:",
+      "importance_rank": 43,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Moqueca de Banana",
+      "importance_rank": 44,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_4",
+      "section_title": "Rice and Peas",
+      "importance_rank": 45,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Chicken Alfredo Ingredients:",
+      "importance_rank": 46,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Chicken Parmesan Ingredients:",
+      "importance_rank": 47,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4",
+      "section_title": "Som Tum (Green Papaya Salad)",
+      "importance_rank": 48,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Pad See Ew Ingredients:",
+      "importance_rank": 49,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Chopped parsley for garnish",
+      "importance_rank": 50,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_4",
+      "section_title": "Sopa de Tortilla",
+      "importance_rank": 51,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Sliced green onions for garnish Instructions:",
+      "importance_rank": 52,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Roast Chicken Ingredients:",
+      "importance_rank": 53,
+      "page_number": 0
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Chicken Tikka Masala Ingredients:",
+      "importance_rank": 54,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2",
+      "section_title": "Gurkensalat (Cucumber Salad)",
+      "importance_rank": 55,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Lemon Herb Salmon Ingredients:",
+      "importance_rank": 56,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Baked Ziti Ingredients:",
+      "importance_rank": 57,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Beef Stroganoff Ingredients:",
+      "importance_rank": 58,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1",
+      "section_title": "Ca Tim Nuong (Grilled Eggplant)",
+      "importance_rank": 59,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Tandoori Chicken Ingredients:",
+      "importance_rank": 60,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Chicken Cacciatore Ingredients:",
+      "importance_rank": 61,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Grilled Salmon Ingredients:",
+      "importance_rank": 62,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Hot and Sour Soup",
+      "importance_rank": 63,
+      "page_number": 0
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Greek Moussaka Ingredients:",
+      "importance_rank": 64,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_1",
+      "section_title": "Bolinho de Bacalhau",
+      "importance_rank": 65,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Pad See Ew",
+      "importance_rank": 66,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "General Tso's Chicken Ingredients:",
+      "importance_rank": 67,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Salmon en Papillote Ingredients:",
+      "importance_rank": 68,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1",
+      "section_title": "Lemon wedges for garnish Instructions:",
+      "importance_rank": 69,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2",
+      "section_title": "Lobster Tail Ingredients:",
+      "importance_rank": 70,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Parchment paper Instructions:",
+      "importance_rank": 71,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_4",
+      "section_title": "Pimientos de Padrón",
+      "importance_rank": 72,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Pão de Queijo",
+      "importance_rank": 73,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_3",
+      "section_title": "Roast Beef Ingredients:",
+      "importance_rank": 74,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_4",
+      "section_title": "Rau Muong Xao Toi (Stir-Fried Morning Glory with Garlic)",
+      "importance_rank": 75,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Onigiri (Rice Balls)",
+      "importance_rank": 76,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_4",
+      "section_title": "Rösti (Potato Pancakes)",
+      "importance_rank": 77,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3",
+      "section_title": "Mango Sticky Rice",
+      "importance_rank": 78,
+      "page_number": 8
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 8,
+      "refined_text": "Ingredients: \n \n1 pound chicken breast, cubed \n \n1 cup yogurt \n \n2 tablespoons lemon juice \n \n2 cloves garlic, minced \n \n1 teaspoon grated ginger \n \n1 teaspoon cumin \n \n1 teaspoon coriander \n \n1 teaspoon turmeric \n \n1 teaspoon paprika \n \n1 teaspoon garam masala \n \n1/2 cup heavy cream \n \n1 can (14.5 ounces) diced tomatoes \n \n1 small onion, diced \n \n2 tablespoons vegetable oil \n \nSalt and pepper to taste \n \nChopped cilantro for garnish \nInstructions: \n \nIn a bowl, mix yogurt, lemon juice, minced garlic, grated ginger, cumin, coriander, \nturmeric, paprika, and garam masala. \n \nMarinate chicken cubes in the mixture for at least 1 hour. \n \nIn a large skillet, heat vegetable oil over medium heat. \n \nCook diced onion until translucent. \n \nAdd marinated chicken and cook until browned. \n \nStir in diced tomatoes and simmer for 20 minutes. \n \nAdd heavy cream and simmer for an additional 10 minutes. \n \nSeason with salt and pepper to taste. \n \nGarnish with chopped cilantro and serve. \n \n \n \nEggplant Parmesan \nIngredients:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 3,
+      "refined_text": "Ingredients: \n \n1 pound large shrimp, peeled and deveined \n \n4 cloves garlic, minced \n \n1/4 cup white wine \n \n1/4 cup chicken broth \n \n1/4 cup lemon juice \n \n1/4 cup butter \n \n2 tablespoons olive oil \n \n1/4 cup chopped parsley \n \nSalt and pepper to taste \n \nCooked pasta for serving \nInstructions: \n \nHeat olive oil and butter in a large skillet over medium heat. \n \nAdd minced garlic and sauté until fragrant. \n \nAdd shrimp and cook until pink and opaque. \n \nRemove shrimp from the skillet and set aside. \n \nPour white wine, chicken broth, and lemon juice into the skillet, simmer until reduced by \nhalf. \n \nReturn shrimp to the skillet and toss to coat in the sauce. \n \nSeason with salt and pepper, stir in chopped parsley. \n \nServe over cooked pasta. \n \n \n \nBeef Tacos \nIngredients: \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 packet taco seasoning \n \n1/2 cup water \n \nTaco shells or tortillas"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 1,
+      "refined_text": "Ingredients: \n \n1 pound beef sirloin, thinly sliced \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup mushrooms, sliced \n \n1 cup beef broth \n \n1 cup sour cream \n \n2 tablespoons flour \n \n2 tablespoons butter \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nEgg noodles or rice for serving \nInstructions: \n \nIn a large skillet, melt butter over medium heat. \n \nAdd diced onion and minced garlic, sauté until translucent. \n \nAdd sliced beef and cook until browned. \n \nStir in mushrooms and cook until tender. \n \nSprinkle flour over the mixture and stir to combine. \n \nGradually add beef broth, stirring constantly until the sauce thickens. \n \nStir in sour cream and paprika, season with salt and pepper. \n \nSimmer for a few minutes until heated through. \n \nServe over egg noodles or rice. \n \n \n \nChicken Parmesan \nIngredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup breadcrumbs \n \n1/2 cup grated Parmesan cheese \n \n1 cup marinara sauce \n \n1 cup mozzarella cheese, shredded \n \n2 eggs, beaten \n \n1/2 cup flour \n \n1/4 cup olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason chicken breasts with salt and pepper. \n \nDredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and \ngrated Parmesan cheese. \n \nHeat olive oil in a skillet over medium heat. \n \nCook chicken until golden brown on both sides."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 7,
+      "refined_text": "Ingredients: \n \n4 boneless, skinless chicken thighs \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 bell pepper, sliced \n \n1 can (14.5 ounces) diced tomatoes \n \n1/2 cup chicken broth \n \n1/4 cup red wine \n \n1 teaspoon dried oregano \n \n1 teaspoon dried basil \n \n1/4 cup olives, sliced \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \nInstructions: \n \nIn a large skillet, heat olive oil over medium heat. \n \nAdd chicken thighs and cook until browned on both sides, then set aside. \n \nIn the same skillet, sauté diced onion, minced garlic, and sliced bell pepper until \nsoftened. \n \nStir in diced tomatoes, chicken broth, red wine, oregano, basil, and olives. \n \nReturn chicken to the skillet and simmer for 30 minutes until chicken is cooked through. \n \nSeason with salt and pepper to taste. \n \nServe warm. \n \n \n \nChicken Marsala \nIngredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup mushrooms, sliced \n \n1/2 cup Marsala wine \n \n1/2 cup chicken broth \n \n1/4 cup flour \n \n2 tablespoons butter \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \n \nChopped parsley for garnish"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 2,
+      "refined_text": "Ingredients: \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 carrot, grated \n \n1 celery stalk, diced \n \n1 can (28 ounces) crushed tomatoes \n \n1/4 cup tomato paste \n \n1/2 cup red wine (optional) \n \n1 teaspoon dried oregano \n \n1 teaspoon dried basil \n \nSalt and pepper to taste \n \nSpaghetti for serving \n \nGrated Parmesan cheese for garnish \nInstructions: \n \nIn a large skillet, cook ground beef over medium heat until browned. \n \nAdd diced onion, minced garlic, grated carrot, and diced celery, sauté until vegetables \nare tender. \n \nStir in crushed tomatoes, tomato paste, red wine (if using), oregano, basil, salt, and \npepper. \n \nSimmer for 30 minutes, stirring occasionally. \n \nCook spaghetti according to package instructions. \n \nServe Bolognese sauce over spaghetti, garnished with grated Parmesan cheese. \n \n \n \nTeriyaki Chicken \nIngredients: \n \n4 boneless, skinless chicken thighs \n \n1/4 cup soy sauce \n \n1/4 cup mirin \n \n2 tablespoons sugar \n \n1 tablespoon sake \n \n1 teaspoon grated ginger \n \n1 teaspoon minced garlic \n \n1 tablespoon vegetable oil \n \nCooked rice for serving"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 10,
+      "refined_text": "Ingredients: \n \n1 pound boneless, skinless chicken thighs, cubed \n \n1/4 cup cornstarch \n \n1/4 cup soy sauce \n \n1/4 cup rice vinegar \n \n1/4 cup hoisin sauce \n \n2 tablespoons sugar \n \n2 cloves garlic, minced \n \n1 teaspoon grated ginger \n \n1/4 cup vegetable oil \n \nCooked rice for serving \n \nSliced green onions for garnish \nInstructions: \n \nIn a bowl, toss chicken cubes with cornstarch. \n \nHeat vegetable oil in a skillet over medium heat. \n \nCook chicken until golden and crispy, then set aside. \n \nIn the same skillet, sauté minced garlic and grated ginger until fragrant. \n \nStir in soy sauce, rice vinegar, hoisin sauce, and sugar, simmer until thickened. \n \nReturn chicken to the skillet and toss to coat in the sauce. \n \nServe over cooked rice, garnished with sliced green onions. \n \n \n \nGreek Moussaka \nIngredients: \n \n2 large eggplants, sliced \n \n1 pound ground lamb or beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 can (14.5 ounces) diced tomatoes \n \n1/4 cup red wine \n \n1 teaspoon cinnamon \n \n1 teaspoon oregano \n \n1/4 cup grated Parmesan cheese \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \n \n2 cups béchamel sauce \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason eggplant slices with salt and let sit for 30 minutes, then pat dry. \n \nIn a skillet, heat olive oil over medium heat. \n \nCook eggplant until golden on both sides, then set aside."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 14,
+      "refined_text": "Ingredients: \n \n4 pork chops \n \n2 apples, sliced \n \n1 small onion, sliced \n \n1/4 cup apple cider \n \n1/4 cup chicken broth \n \n2 tablespoons butter \n \n1 tablespoon olive oil \n \n1 teaspoon thyme \n \nSalt and pepper to taste \nInstructions: \n \nSeason pork chops with salt and pepper. \n \nIn a large skillet, heat olive oil over medium heat. \n \nCook pork chops until browned on both sides, then set aside. \n \nIn the same skillet, melt butter and sauté sliced onion and apples until softened. \n \nStir in apple cider, chicken broth, and thyme. \n \nReturn pork chops to the skillet and simmer for 10 minutes until cooked through. \n \nServe warm. \n \n \n \nRatatouille \nIngredients: \n \n1 eggplant, diced \n \n1 zucchini, diced \n \n1 bell pepper, diced \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n4 tomatoes, diced"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 5,
+      "refined_text": "Instructions: \n \nCook fettuccine according to package instructions. \n \nIn a skillet, melt butter over medium heat. \n \nAdd minced garlic and sauté until fragrant. \n \nAdd chicken breasts and cook until golden and cooked through. \n \nRemove chicken from the skillet and set aside. \n \nPour heavy cream into the skillet and bring to a simmer. \n \nStir in grated Parmesan cheese until melted and smooth. \n \nSeason with salt and pepper. \n \nSlice chicken and return to the skillet. \n \nToss cooked fettuccine with the sauce and chicken. \n \nGarnish with chopped parsley and serve. \n \n \n \nShepherd's Pie \nIngredients: \n \n1 pound ground lamb or beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup frozen peas and carrots \n \n1 cup beef broth \n \n2 tablespoons tomato paste \n \n2 tablespoons Worcestershire sauce \n \n4 cups mashed potatoes \n \n1/4 cup grated cheddar cheese \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 400°F (200°C). \n \nIn a skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. \n \nStir in peas and carrots, beef broth, tomato paste, and Worcestershire sauce. \n \nSimmer until thickened, season with salt and pepper. \n \nTransfer meat mixture to a baking dish. \n \nSpread mashed potatoes over the top and sprinkle with grated cheddar cheese. \n \nBake for 20-25 minutes until golden and bubbly. \n \nServe warm. \n \n \n \nPad Thai \nIngredients:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 12,
+      "refined_text": "Instructions: \n \nIn a large pot, heat vegetable oil over medium heat. \n \nCook diced onion, minced garlic, and grated ginger until fragrant. \n \nAdd cubed lamb and cook until browned. \n \nStir in diced tomatoes, coconut milk, curry powder, cumin, coriander, turmeric, garam \nmasala, salt, and pepper. \n \nBring to a simmer and cook for 1 hour until lamb is tender. \n \nGarnish with chopped cilantro and serve. \n \n \n \nLemon Herb Salmon \nIngredients: \n \n4 salmon fillets \n \n1 lemon, sliced \n \n2 cloves garlic, minced \n \n1/4 cup olive oil \n \n1 tablespoon fresh dill, chopped \n \n1 tablespoon fresh parsley, chopped \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nPlace salmon fillets on a baking sheet. \n \nIn a bowl, mix minced garlic, olive oil, chopped dill, chopped parsley, salt, and pepper. \n \nBrush the mixture over the salmon fillets. \n \nTop each fillet with lemon slices. \n \nBake for 15-20 minutes until salmon is cooked through. \n \nServe warm. \n \n \n \nMeatloaf \nIngredients:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 3,
+      "refined_text": "Instructions: \n \nIn a bowl, mix soy sauce, mirin, sugar, sake, grated ginger, and minced garlic. \n \nMarinate chicken thighs in the mixture for at least 30 minutes. \n \nHeat vegetable oil in a skillet over medium heat. \n \nCook chicken thighs until browned and cooked through. \n \nPour marinade into the skillet and simmer until thickened. \n \nServe chicken over cooked rice, garnished with sliced green onions. \n \n \n \nShrimp Scampi \nIngredients: \n \n1 pound large shrimp, peeled and deveined \n \n4 cloves garlic, minced \n \n1/4 cup white wine \n \n1/4 cup chicken broth \n \n1/4 cup lemon juice \n \n1/4 cup butter \n \n2 tablespoons olive oil \n \n1/4 cup chopped parsley \n \nSalt and pepper to taste \n \nCooked pasta for serving \nInstructions: \n \nHeat olive oil and butter in a large skillet over medium heat. \n \nAdd minced garlic and sauté until fragrant. \n \nAdd shrimp and cook until pink and opaque. \n \nRemove shrimp from the skillet and set aside. \n \nPour white wine, chicken broth, and lemon juice into the skillet, simmer until reduced by \nhalf. \n \nReturn shrimp to the skillet and toss to coat in the sauce. \n \nSeason with salt and pepper, stir in chopped parsley. \n \nServe over cooked pasta. \n \n \n \nBeef Tacos \nIngredients: \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 packet taco seasoning \n \n1/2 cup water \n \nTaco shells or tortillas"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 12,
+      "refined_text": "Ingredients: \n \n4 salmon fillets \n \n1 lemon, sliced \n \n2 cloves garlic, minced \n \n1/4 cup olive oil \n \n1 tablespoon fresh dill, chopped \n \n1 tablespoon fresh parsley, chopped \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nPlace salmon fillets on a baking sheet. \n \nIn a bowl, mix minced garlic, olive oil, chopped dill, chopped parsley, salt, and pepper. \n \nBrush the mixture over the salmon fillets. \n \nTop each fillet with lemon slices. \n \nBake for 15-20 minutes until salmon is cooked through. \n \nServe warm. \n \n \n \nMeatloaf \nIngredients:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 3,
+      "refined_text": "Ingredients: \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 packet taco seasoning \n \n1/2 cup water \n \nTaco shells or tortillas"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 9,
+      "refined_text": "Ingredients: \n \n1 pound white fish fillets (such as cod or tilapia) \n \n1/2 cup flour \n \n1/2 cup cornmeal \n \n1 teaspoon paprika \n \n1 teaspoon cumin \n \n1 teaspoon salt \n \n1/2 teaspoon pepper \n \n1/2 cup buttermilk \n \n1/4 cup vegetable oil \n \nTaco shells or tortillas \n \nShredded cabbage, diced tomatoes, sliced avocado, and lime wedges for toppings \nInstructions: \n \nIn a bowl, mix flour, cornmeal, paprika, cumin, salt, and pepper. \n \nDip fish fillets in buttermilk, then coat with the flour mixture. \n \nHeat vegetable oil in a skillet over medium heat. \n \nCook fish until golden and cooked through. \n \nServe fish in taco shells or tortillas with desired toppings."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 10,
+      "refined_text": "Ingredients: \n \n2 large eggplants, sliced \n \n1 pound ground lamb or beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 can (14.5 ounces) diced tomatoes \n \n1/4 cup red wine \n \n1 teaspoon cinnamon \n \n1 teaspoon oregano \n \n1/4 cup grated Parmesan cheese \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \n \n2 cups béchamel sauce \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason eggplant slices with salt and let sit for 30 minutes, then pat dry. \n \nIn a skillet, heat olive oil over medium heat. \n \nCook eggplant until golden on both sides, then set aside."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 4,
+      "refined_text": "Ingredients: \n \n4 boneless, skinless chicken breasts \n \n1 pound fettuccine \n \n1 cup heavy cream \n \n1/2 cup grated Parmesan cheese \n \n1/4 cup butter"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 7,
+      "refined_text": "Ingredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup mushrooms, sliced \n \n1/2 cup Marsala wine \n \n1/2 cup chicken broth \n \n1/4 cup flour \n \n2 tablespoons butter \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \n \nChopped parsley for garnish"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 1,
+      "refined_text": "Ingredients: \n \n4 boneless, skinless chicken breasts \n \n1 cup breadcrumbs \n \n1/2 cup grated Parmesan cheese \n \n1 cup marinara sauce \n \n1 cup mozzarella cheese, shredded \n \n2 eggs, beaten \n \n1/2 cup flour \n \n1/4 cup olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason chicken breasts with salt and pepper. \n \nDredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and \ngrated Parmesan cheese. \n \nHeat olive oil in a skillet over medium heat. \n \nCook chicken until golden brown on both sides."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 2,
+      "refined_text": "Ingredients: \n \n4 boneless, skinless chicken thighs \n \n1/4 cup soy sauce \n \n1/4 cup mirin \n \n2 tablespoons sugar \n \n1 tablespoon sake \n \n1 teaspoon grated ginger \n \n1 teaspoon minced garlic \n \n1 tablespoon vegetable oil \n \nCooked rice for serving"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 6,
+      "refined_text": "Ingredients: \n \n2 pounds beef chuck, cut into cubes \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup red wine \n \n2 cups beef broth \n \n1 cup mushrooms, sliced \n \n1 cup carrots, sliced \n \n1 cup pearl onions \n \n2 tablespoons tomato paste \n \n2 tablespoons flour \n \n2 tablespoons butter \n \n1 teaspoon thyme \n \n1 bay leaf \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 350°F (175°C). \n \nIn a large pot, melt butter over medium heat. \n \nAdd diced onion and minced garlic, sauté until translucent. \n \nAdd beef cubes and cook until browned on all sides. \n \nSprinkle flour over the beef and stir to combine. \n \nAdd red wine, beef broth, tomato paste, thyme, and bay leaf."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 13,
+      "refined_text": "Instructions: \n \nIn a large skillet, heat olive oil over medium heat. \n \nCook cubed chicken until browned, then set aside. \n \nIn the same skillet, sauté diced onion, minced garlic, and diced bell pepper until \nsoftened. \n \nStir in rice, chicken broth, white wine, saffron, paprika, salt, and pepper. \n \nBring to a boil, then reduce heat and simmer for 15 minutes."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_1",
+      "page": 9,
+      "refined_text": "Taco shells or tortillas \n \nShredded cabbage, diced tomatoes, sliced avocado, and lime wedges for toppings \nInstructions: \n \nIn a bowl, mix flour, cornmeal, paprika, cumin, salt, and pepper. \n \nDip fish fillets in buttermilk, then coat with the flour mixture. \n \nHeat vegetable oil in a skillet over medium heat. \n \nCook fish until golden and cooked through. \n \nServe fish in taco shells or tortillas with desired toppings."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 3,
+      "refined_text": "Ingredients: \n \n1 pound chicken breast, cubed \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 bell pepper, sliced \n \n1 cup coconut milk \n \n1/2 cup chicken broth \n \n2 tablespoons green curry paste \n \n1 tablespoon fish sauce \n \n1 tablespoon brown sugar \n \n1/4 cup fresh basil leaves \n \n2 tablespoons vegetable oil \n \nCooked rice for serving \nInstructions: \n \nIn a large skillet, heat vegetable oil over medium heat. \n \nCook diced onion and minced garlic until softened. \n \nAdd cubed chicken and cook until browned. \n \nStir in green curry paste, coconut milk, chicken broth, fish sauce, and brown sugar. \n \nAdd sliced bell pepper and simmer for 15 minutes until chicken is cooked through. \n \nStir in fresh basil leaves. \n \nServe over cooked rice. \n \n \n \nTurkey Meatballs \nIngredients: \n \n1 pound ground turkey \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1/4 cup breadcrumbs \n \n1 egg, beaten"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 0,
+      "refined_text": "Ingredients: \n \n1 whole chicken \n \n1 lemon, halved \n \n4 cloves garlic, minced \n \n1/4 cup olive oil \n \n1 tablespoon fresh rosemary, chopped \n \n1 tablespoon fresh thyme, chopped \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nSeason the chicken with salt and pepper. \n \nStuff the cavity with lemon halves and minced garlic. \n \nIn a bowl, mix olive oil, chopped rosemary, and chopped thyme. \n \nBrush the mixture over the chicken. \n \nPlace the chicken in a roasting pan and roast for 1 hour and 30 minutes until cooked \nthrough. \n \nLet rest before carving and serving. \n \n \n \nShrimp and Grits \nIngredients: \n \n1 pound shrimp, peeled and deveined \n \n1 cup grits \n \n4 cups water \n \n1/2 cup cheddar cheese, shredded \n \n1/4 cup butter \n \n1 small onion, diced \n \n2 cloves garlic, minced"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 12,
+      "refined_text": "Ingredients: \n \n4 salmon fillets \n \n1/4 cup olive oil \n \n2 cloves garlic, minced \n \n1 lemon, juiced \n \n1 tablespoon fresh dill, chopped \n \nSalt and pepper to taste \nInstructions: \n \nPreheat grill to medium-high heat. \n \nIn a bowl, mix olive oil, minced garlic, lemon juice, chopped dill, salt, and pepper. \n \nBrush the mixture over the salmon fillets. \n \nGrill salmon for 4-5 minutes per side until cooked through. \n \nServe warm. \n \n \n \nGrilled Shrimp Skewers \nIngredients: \n \n1 pound large shrimp, peeled and deveined \n \n1/4 cup olive oil \n \n2 cloves garlic, minced \n \n1 lemon, juiced \n \n1 tablespoon fresh parsley, chopped \n \nSalt and pepper to taste \n \nBamboo skewers \nInstructions: \n \nPreheat grill to medium-high heat. \n \nIn a bowl, mix olive oil, minced garlic, lemon juice, chopped parsley, salt, and pepper. \n \nThread shrimp onto bamboo skewers. \n \nBrush the mixture over the shrimp. \n \nGrill shrimp for 2-3 minutes per side until pink and opaque. \n \nServe warm. \n \n \n \n \nLamb Chops with Mint Sauce \nIngredients:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 7,
+      "refined_text": "Ingredients: \n \n4 boneless, skinless chicken breasts \n \n1/4 cup flour \n \n1/4 cup lemon juice \n \n1/4 cup chicken broth \n \n1/4 cup capers \n \n2 tablespoons butter \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nSeason chicken breasts with salt and pepper, then dredge in flour. \n \nIn a large skillet, heat olive oil and butter over medium heat. \n \nCook chicken until golden and cooked through, then set aside. \n \nIn the same skillet, add lemon juice, chicken broth, and capers, simmer until reduced by \nhalf. \n \nReturn chicken to the skillet and coat with the sauce. \n \nGarnish with chopped parsley and serve. \n \n \n \nChicken Pot Pie \nIngredients: \n \n1 pound chicken breast, cubed \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup frozen peas and carrots \n \n1 cup chicken broth \n \n1/2 cup milk \n \n1/4 cup flour \n \n1/4 cup butter"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 1,
+      "refined_text": "Ingredients: \n \n1 pound spaghetti \n \n4 eggs \n \n1 cup grated Parmesan cheese \n \n1/2 cup pancetta, diced \n \n2 cloves garlic, minced \n \n1/4 cup heavy cream (optional) \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nCook spaghetti according to package instructions. \n \nIn a skillet, cook diced pancetta until crispy, then set aside. \n \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using). \n \nIn the same skillet, sauté minced garlic until fragrant. \n \nAdd cooked spaghetti and toss to coat. \n \nRemove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n \nGarnish with chopped parsley and serve. \n \n \n \nStuffed Bell Peppers \nIngredients: \n \n4 bell peppers, tops cut off and seeds removed \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup cooked rice \n \n1 can (14.5 ounces) diced tomatoes"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 2,
+      "refined_text": "Ingredients: \n \n1 pound pork tenderloin, cubed \n \n1 bell pepper, diced \n \n1 small onion, diced \n \n1/2 cup pineapple chunks \n \n1/4 cup ketchup \n \n1/4 cup rice vinegar \n \n1/4 cup soy sauce \n \n1/4 cup brown sugar \n \n2 tablespoons cornstarch \n \n2 tablespoons vegetable oil \n \nCooked rice for serving \nInstructions: \n \nIn a bowl, toss pork cubes with cornstarch. \n \nHeat vegetable oil in a skillet over medium heat. \n \nCook pork until browned and crispy, then set aside. \n \nIn the same skillet, sauté diced onion and bell pepper until softened. \n \nStir in pineapple chunks, ketchup, rice vinegar, soy sauce, and brown sugar. \n \nReturn pork to the skillet and toss to coat in the sauce. \n \nServe over cooked rice. \n \n \n \nTandoori Chicken \nIngredients: \n \n4 boneless, skinless chicken thighs \n \n1 cup yogurt \n \n2 tablespoons lemon juice \n \n2 cloves garlic, minced \n \n1 teaspoon grated ginger \n \n1 teaspoon cumin \n \n1 teaspoon coriander \n \n1 teaspoon turmeric \n \n1 teaspoon paprika \n \n1 teaspoon garam masala"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 11,
+      "refined_text": "Ingredients: \n \n1 pound white fish fillets (such as cod or haddock) \n \n1 cup flour \n \n1 cup beer \n \n1 teaspoon baking powder \n \n1 teaspoon salt \n \n1/2 teaspoon pepper \n \n4 large potatoes, peeled and cut into fries \n \nVegetable oil for frying \n \nLemon wedges for serving \nInstructions: \n \nIn a bowl, mix flour, baking powder, salt, and pepper. \n \nGradually whisk in beer until smooth. \n \nHeat vegetable oil in a deep fryer or large pot to 350°F (175°C). \n \nDip fish fillets in the batter and fry until golden and crispy. \n \nDrain on paper towels. \n \nFry potatoes until golden and crispy. \n \nServe fish and chips with lemon wedges. \n \n \n \nGrilled Cheese Sandwich \nIngredients: \n \n8 slices bread \n \n4 slices cheddar cheese \n \n4 slices mozzarella cheese \n \n1/4 cup butter \nInstructions: \n \nPreheat a skillet over medium heat. \n \nButter one side of each slice of bread. \n \nPlace a slice of cheddar cheese and a slice of mozzarella cheese between two slices of \nbread, buttered side out."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 6,
+      "refined_text": "Ingredients: \n \n1 pound beef sirloin, thinly sliced \n \n2 cups broccoli florets \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1/4 cup soy sauce \n \n1/4 cup beef broth \n \n2 tablespoons oyster sauce \n \n1 tablespoon cornstarch \n \n2 tablespoons vegetable oil \n \nCooked rice for serving \nInstructions: \n \nIn a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch. \n \nIn a large skillet, heat vegetable oil over medium heat. \n \nCook sliced beef until browned, then set aside. \n \nIn the same skillet, sauté diced onion and minced garlic until fragrant. \n \nAdd broccoli florets and stir-fry until tender. \n \nReturn beef to the skillet and pour sauce over the top. \n \nCook until sauce is thickened. \n \nServe over cooked rice. \n \n \n \nChicken Fajitas \nIngredients: \n \n1 pound chicken breast, sliced \n \n1 bell pepper, sliced \n \n1 small onion, sliced \n \n2 tablespoons fajita seasoning"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 14,
+      "refined_text": "Ingredients: \n \n8 ounces wide rice noodles \n \n1/2 pound chicken breast, sliced \n \n1 cup broccoli florets \n \n2 eggs \n \n2 tablespoons soy sauce \n \n2 tablespoons oyster sauce \n \n1 tablespoon sugar \n \n1 tablespoon vegetable oil \nInstructions: \n \nSoak rice noodles in warm water until softened, then drain. \n \nIn a large skillet, heat vegetable oil over medium heat. \n \nCook sliced chicken until browned, then set aside. \n \nScramble eggs in the same skillet. \n \nAdd broccoli and stir-fry until tender. \n \nAdd noodles, soy sauce, oyster sauce, and sugar, stir to combine."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 7,
+      "refined_text": "Ingredients: \n \n1 pound chicken breast, cubed \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup frozen peas and carrots \n \n1 cup chicken broth \n \n1/2 cup milk \n \n1/4 cup flour \n \n1/4 cup butter"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 8,
+      "refined_text": "Ingredients: \n \n1 pound chicken breast, sliced \n \n1 cup broccoli florets \n \n1 cup bell peppers, sliced \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n2 tablespoons soy sauce \n \n1 tablespoon oyster sauce \n \n1 tablespoon sesame oil \n \n1 teaspoon cornstarch \n \n1/4 cup water \n \nCooked rice for serving \nInstructions: \n \nIn a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and water. \n \nIn a large skillet, heat sesame oil over medium heat. \n \nCook sliced chicken until browned, then set aside. \n \nIn the same skillet, sauté diced onion and minced garlic until fragrant. \n \nAdd broccoli and bell peppers, stir-fry until tender. \n \nReturn chicken to the skillet and pour sauce over the top. \n \nCook until sauce is thickened. \n \nServe over cooked rice. \n \n \n \nCoq au Vin"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 9,
+      "refined_text": "Ingredients: \n \n1 pound crab meat \n \n1 small onion, diced \n \n1/4 cup breadcrumbs \n \n1/4 cup mayonnaise \n \n1 egg, beaten \n \n1 tablespoon Dijon mustard \n \n1 tablespoon Worcestershire sauce \n \n1 teaspoon Old Bay seasoning \n \n2 tablespoons vegetable oil \n \nLemon wedges for serving \nInstructions:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 4,
+      "refined_text": "Ingredients: \n \n1 cup broccoli florets \n \n1 cup bell peppers, sliced \n \n1 cup snow peas \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n2 tablespoons soy sauce \n \n1 tablespoon oyster sauce \n \n1 tablespoon sesame oil \n \n1 teaspoon cornstarch \n \n1/4 cup water \n \nCooked rice for serving \nInstructions: \n \nIn a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and water. \n \nIn a large skillet, heat sesame oil over medium heat. \n \nSauté diced onion and minced garlic until fragrant. \n \nAdd broccoli, bell peppers, and snow peas, stir-fry until tender. \n \nPour sauce over the vegetables and cook until thickened. \n \nServe over cooked rice. \n \n \n \nVietnamese Pho \nIngredients: \n \n1 pound beef sirloin, thinly sliced \n \n8 cups beef broth"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 1,
+      "refined_text": "Ingredients: \n \n4 bell peppers, tops cut off and seeds removed \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup cooked rice \n \n1 can (14.5 ounces) diced tomatoes"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 13,
+      "refined_text": "Ingredients: \n \n4 lobster tails \n \n1/4 cup butter, melted \n \n2 cloves garlic, minced \n \n1 lemon, juiced \n \n1 tablespoon fresh parsley, chopped \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 425°F (220°C). \n \nUsing kitchen shears, cut the top shell of the lobster tails lengthwise. \n \nGently pull the lobster meat out of the shell and place it on top. \n \nIn a bowl, mix melted butter, minced garlic, lemon juice, chopped parsley, salt, and \npepper. \n \nBrush the mixture over the lobster meat. \n \nPlace lobster tails on a baking sheet and bake for 12-15 minutes until cooked through. \n \nServe warm. \n \n \n \nOsso Buco \nIngredients: \n \n4 veal shanks \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup white wine"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 12,
+      "refined_text": "Ingredients: \n \n1 pound large shrimp, peeled and deveined \n \n1/4 cup olive oil \n \n2 cloves garlic, minced \n \n1 lemon, juiced \n \n1 tablespoon fresh parsley, chopped \n \nSalt and pepper to taste \n \nBamboo skewers \nInstructions: \n \nPreheat grill to medium-high heat. \n \nIn a bowl, mix olive oil, minced garlic, lemon juice, chopped parsley, salt, and pepper. \n \nThread shrimp onto bamboo skewers. \n \nBrush the mixture over the shrimp. \n \nGrill shrimp for 2-3 minutes per side until pink and opaque. \n \nServe warm. \n \n \n \n \nLamb Chops with Mint Sauce \nIngredients:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 2,
+      "refined_text": "Ingredients: \n \n4 boneless, skinless chicken thighs \n \n1 cup yogurt \n \n2 tablespoons lemon juice \n \n2 cloves garlic, minced \n \n1 teaspoon grated ginger \n \n1 teaspoon cumin \n \n1 teaspoon coriander \n \n1 teaspoon turmeric \n \n1 teaspoon paprika \n \n1 teaspoon garam masala"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 10,
+      "refined_text": "Ingredients: \n \n1 pound fettuccine \n \n1 cup heavy cream \n \n1/2 cup grated Parmesan cheese \n \n1/4 cup butter \n \n2 cloves garlic, minced \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 0,
+      "refined_text": "Ingredients: \n \n1 pound shrimp, peeled and deveined \n \n1 cup grits \n \n4 cups water \n \n1/2 cup cheddar cheese, shredded \n \n1/4 cup butter \n \n1 small onion, diced \n \n2 cloves garlic, minced"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 12,
+      "refined_text": "Instructions: \n \nPreheat grill to medium-high heat. \n \nIn a bowl, mix olive oil, minced garlic, lemon juice, chopped parsley, salt, and pepper. \n \nThread shrimp onto bamboo skewers. \n \nBrush the mixture over the shrimp. \n \nGrill shrimp for 2-3 minutes per side until pink and opaque. \n \nServe warm. \n \n \n \n \nLamb Chops with Mint Sauce \nIngredients:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_2",
+      "page": 1,
+      "refined_text": "Instructions: \n \nCook spaghetti according to package instructions. \n \nIn a skillet, cook diced pancetta until crispy, then set aside. \n \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using). \n \nIn the same skillet, sauté minced garlic until fragrant. \n \nAdd cooked spaghetti and toss to coat. \n \nRemove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n \nGarnish with chopped parsley and serve. \n \n \n \nStuffed Bell Peppers \nIngredients: \n \n4 bell peppers, tops cut off and seeds removed \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup cooked rice \n \n1 can (14.5 ounces) diced tomatoes"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 4,
+      "refined_text": "Ingredients: \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 can (15 ounces) kidney beans, drained \n \n1 can (14.5 ounces) diced tomatoes \n \n1/4 cup tomato paste \n \n1 cup beef broth \n \n1 tablespoon chili powder \n \n1 teaspoon cumin \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nShredded cheese and sour cream for garnish \nInstructions: \n \nIn a large pot, cook ground beef with diced onion and garlic over medium heat until \nbrowned. \n \nStir in kidney beans, diced tomatoes, tomato paste, beef broth, chili powder, cumin, and \npaprika. \n \nBring to a boil, then reduce heat and simmer for 30 minutes, stirring occasionally. \n \nSeason with salt and pepper. \n \nServe hot, garnished with shredded cheese and sour cream. \n \n \n \nGnocchi with Sage Butter \nIngredients: \n \n1 pound potato gnocchi \n \n1/4 cup butter \n \n2 cloves garlic, minced \n \n8 fresh sage leaves \n \n1/2 cup grated Parmesan cheese \n \nSalt and pepper to taste \nInstructions:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 5,
+      "refined_text": "Ingredients: \n \n2 pounds pork ribs \n \n1/4 cup honey \n \n1/4 cup soy sauce \n \n2 tablespoons rice vinegar \n \n3 cloves garlic, minced \n \n1 teaspoon grated ginger \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nSliced green onions for garnish \nInstructions: \n \nPreheat oven to 300°F (150°C). \n \nSeason ribs with salt, pepper, and paprika, then place in a baking dish. \n \nIn a bowl, mix honey, soy sauce, rice vinegar, garlic, and ginger. Pour over the ribs. \n \nCover with foil and bake for 2.5 hours, basting occasionally with the sauce. \n \nRemove foil, increase oven to 400°F (200°C), and bake for 15-20 minutes until \ncaramelized. \n \nGarnish with green onions and serve. \n \n \n \nMoroccan Chicken Tagine \nIngredients: \n \n4 chicken thighs \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup chicken broth \n \n1/2 cup dried apricots, chopped \n \n1/2 cup green olives \n \n1 tablespoon olive oil \n \n1 teaspoon cumin \n \n1 teaspoon cinnamon \n \n1 teaspoon turmeric \n \nSalt and pepper to taste"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 2,
+      "refined_text": "Ingredients: \n \n1 beef roast (3-4 pounds) \n \n2 cloves garlic, minced \n \n1 tablespoon fresh rosemary, chopped \n \n1 tablespoon fresh thyme, chopped \n \n1/4 cup olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 350°F (175°C). \n \nIn a bowl, mix minced garlic, chopped rosemary, chopped thyme, olive oil, salt, and \npepper. \n \nRub the mixture over the beef roast. \n \nPlace the roast in a roasting pan and cook for 1 hour and 30 minutes until desired \ndoneness. \n \nLet rest before slicing and serving. \n \n \n \nSalmon en Papillote \nIngredients: \n \n4 salmon fillets \n \n1 lemon, sliced \n \n1 small onion, sliced \n \n1 zucchini, sliced \n \n1/4 cup olive oil \n \n1 tablespoon fresh dill, chopped \n \nSalt and pepper to taste \n \nParchment paper \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nCut parchment paper into large squares. \n \nPlace a salmon fillet in the center of each square. \n \nTop with lemon slices, sliced onion, and sliced zucchini. \n \nDrizzle with olive oil and sprinkle with chopped dill, salt, and pepper. \n \nFold the parchment paper over the salmon and seal the edges to form a packet. \n \nPlace packets on a baking sheet and bake for 20-25 minutes until salmon is cooked \nthrough. \n \nServe warm."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 3,
+      "refined_text": "Ingredients: \n \n1 pound ziti pasta \n \n1 pound ground beef or Italian sausage \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 jar (24 ounces) marinara sauce \n \n1 cup ricotta cheese \n \n1 cup shredded mozzarella cheese \n \n1/2 cup grated Parmesan cheese \n \n1 teaspoon dried oregano \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nCook ziti according to package instructions, then drain. \n \nIn a skillet, cook ground beef or sausage with diced onion and minced garlic until \nbrowned. \n \nStir in marinara sauce, oregano, salt, and pepper, and simmer for 10 minutes. \n \nIn a baking dish, layer half the ziti, half the sauce, dollops of ricotta, and half the \nmozzarella. Repeat layers. \n \nTop with grated Parmesan cheese. \n \nBake for 25-30 minutes until bubbly and golden. \n \nServe warm. \n \n \n \nButter Chicken \nIngredients: \n \n1 pound boneless chicken thighs, cubed \n \n1 cup plain yogurt \n \n1 tablespoon lemon juice \n \n2 cloves garlic, minced \n \n1 teaspoon grated ginger \n \n1 teaspoon garam masala \n \n1 teaspoon turmeric \n \n1 teaspoon cumin \n \n1 can (14.5 ounces) tomato puree \n \n1/2 cup heavy cream \n \n2 tablespoons butter \n \nSalt and pepper to taste \n \nChopped cilantro for garnish \n \nCooked rice or naan for serving \nInstructions:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 1,
+      "refined_text": "Ingredients: \n \n1 pie crust \n \n6 slices bacon, cooked and crumbled \n \n1 small onion, diced \n \n1 cup grated Gruyère cheese \n \n3 eggs \n \n1 cup heavy cream \n \n1/2 teaspoon salt \n \n1/4 teaspoon pepper \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nPlace pie crust in a pie dish. \n \nSprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. \n \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n \nPour egg mixture over the filling. \n \nBake for 30-35 minutes until set and golden. \n \nServe warm. \n \n \n \nRamen \nIngredients: \n \n4 cups chicken broth \n \n1/4 cup soy sauce \n \n2 tablespoons miso paste \n \n2 cloves garlic, minced \n \n1 piece ginger, sliced \n \n1/2 pound pork belly, sliced \n \n4 eggs, soft-boiled \n \n8 ounces ramen noodles \n \nSliced green onions, nori, and sesame seeds for garnish \nInstructions: \n \nIn a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced \nginger to a boil. \n \nReduce heat and simmer for 20 minutes. \n \nIn a skillet, cook sliced pork belly until crispy. \n \nCook ramen noodles according to package instructions. \n \nDivide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green \nonions, nori, and sesame seeds. \n \nServe immediately."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 6,
+      "refined_text": "Ingredients: \n \n1 cup Arborio rice \n \n4 cups chicken or vegetable broth \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup mushrooms, sliced \n \n1/2 cup white wine \n \n1/2 cup grated Parmesan cheese \n \n2 tablespoons butter \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nHeat broth in a pot and keep warm. \n \nIn a large skillet, heat olive oil and 1 tablespoon butter over medium heat. \n \nSauté onion, garlic, and mushrooms until tender. \n \nAdd rice and stir for 1-2 minutes until lightly toasted. \n \nPour in white wine and cook until absorbed. \n \nAdd warm broth, one ladle at a time, stirring until absorbed before adding more, until \nrice is creamy and tender (about 20 minutes). \n \nStir in remaining butter and Parmesan cheese, season with salt and pepper. \n \nGarnish with parsley and serve. \n \n \n \nPulled Pork Sandwiches \nIngredients: \n \n2 pounds pork shoulder \n \n1 small onion, sliced \n \n2 cloves garlic, minced"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 0,
+      "refined_text": "Ingredients: \n \n4 pork cutlets \n \n1/2 cup flour \n \n2 eggs, beaten \n \n1 cup breadcrumbs \n \n1/4 cup vegetable oil \n \n1 lemon, sliced \n \nSalt and pepper to taste \nInstructions: \n \nSeason pork cutlets with salt and pepper. \n \nDredge cutlets in flour, dip in beaten eggs, and coat with breadcrumbs. \n \nIn a large skillet, heat vegetable oil over medium heat. \n \nCook cutlets until golden and crispy on both sides. \n \nServe with lemon slices."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 3,
+      "refined_text": "Ingredients: \n \n1 pound boneless chicken thighs, cubed \n \n1 cup plain yogurt \n \n1 tablespoon lemon juice \n \n2 cloves garlic, minced \n \n1 teaspoon grated ginger \n \n1 teaspoon garam masala \n \n1 teaspoon turmeric \n \n1 teaspoon cumin \n \n1 can (14.5 ounces) tomato puree \n \n1/2 cup heavy cream \n \n2 tablespoons butter \n \nSalt and pepper to taste \n \nChopped cilantro for garnish \n \nCooked rice or naan for serving \nInstructions:"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 5,
+      "refined_text": "Ingredients: \n \n4 chicken thighs \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup chicken broth \n \n1/2 cup dried apricots, chopped \n \n1/2 cup green olives \n \n1 tablespoon olive oil \n \n1 teaspoon cumin \n \n1 teaspoon cinnamon \n \n1 teaspoon turmeric \n \nSalt and pepper to taste"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 7,
+      "refined_text": "Ingredients: \n \n4 boneless, skinless chicken breasts \n \n1/2 cup spinach, chopped \n \n1/2 cup feta cheese, crumbled \n \n1/4 cup sun-dried tomatoes, chopped \n \n2 cloves garlic, minced \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nCut a pocket into each chicken breast. \n \nIn a bowl, mix spinach, feta, sun-dried tomatoes, and garlic. \n \nStuff the mixture into the chicken pockets and secure with toothpicks if needed. \n \nSeason chicken with salt and pepper. \n \nHeat olive oil in a skillet over medium heat and sear chicken on both sides. \n \nTransfer to a baking dish and bake for 20-25 minutes until cooked through. \n \nServe warm. \n \n \n \nVegetable Lasagna \nIngredients: \n \n9 lasagna noodles, cooked \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 zucchini, sliced"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 6,
+      "refined_text": "Chopped parsley for garnish \n \nCooked couscous for serving \nInstructions: \n \nIn a large pot, heat olive oil over medium heat. \n \nBrown chicken thighs on all sides, then set aside. \n \nSauté onion and garlic until softened. \n \nStir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives. \n \nReturn chicken to the pot, cover, and simmer for 45 minutes until tender. \n \nSeason with salt and pepper. \n \nGarnish with parsley and serve over couscous. \n \n \n \nMushroom Risotto \nIngredients: \n \n1 cup Arborio rice \n \n4 cups chicken or vegetable broth \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup mushrooms, sliced \n \n1/2 cup white wine \n \n1/2 cup grated Parmesan cheese \n \n2 tablespoons butter \n \n2 tablespoons olive oil \n \nSalt and pepper to taste \n \nChopped parsley for garnish \nInstructions: \n \nHeat broth in a pot and keep warm. \n \nIn a large skillet, heat olive oil and 1 tablespoon butter over medium heat. \n \nSauté onion, garlic, and mushrooms until tender. \n \nAdd rice and stir for 1-2 minutes until lightly toasted. \n \nPour in white wine and cook until absorbed. \n \nAdd warm broth, one ladle at a time, stirring until absorbed before adding more, until \nrice is creamy and tender (about 20 minutes). \n \nStir in remaining butter and Parmesan cheese, season with salt and pepper. \n \nGarnish with parsley and serve. \n \n \n \nPulled Pork Sandwiches \nIngredients: \n \n2 pounds pork shoulder \n \n1 small onion, sliced \n \n2 cloves garlic, minced"
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 2,
+      "refined_text": "Ingredients: \n \n4 salmon fillets \n \n1 lemon, sliced \n \n1 small onion, sliced \n \n1 zucchini, sliced \n \n1/4 cup olive oil \n \n1 tablespoon fresh dill, chopped \n \nSalt and pepper to taste \n \nParchment paper \nInstructions: \n \nPreheat oven to 375°F (190°C). \n \nCut parchment paper into large squares. \n \nPlace a salmon fillet in the center of each square. \n \nTop with lemon slices, sliced onion, and sliced zucchini. \n \nDrizzle with olive oil and sprinkle with chopped dill, salt, and pepper. \n \nFold the parchment paper over the salmon and seal the edges to form a packet. \n \nPlace packets on a baking sheet and bake for 20-25 minutes until salmon is cooked \nthrough. \n \nServe warm."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 2,
+      "refined_text": "Instructions: \n \nPreheat oven to 375°F (190°C). \n \nCut parchment paper into large squares. \n \nPlace a salmon fillet in the center of each square. \n \nTop with lemon slices, sliced onion, and sliced zucchini. \n \nDrizzle with olive oil and sprinkle with chopped dill, salt, and pepper. \n \nFold the parchment paper over the salmon and seal the edges to form a packet. \n \nPlace packets on a baking sheet and bake for 20-25 minutes until salmon is cooked \nthrough. \n \nServe warm."
+    },
+    {
+      "doc": "Dinner Ideas - Mains_3",
+      "page": 5,
+      "refined_text": "Instructions: \n \nPreheat oven to 300°F (150°C). \n \nSeason ribs with salt, pepper, and paprika, then place in a baking dish. \n \nIn a bowl, mix honey, soy sauce, rice vinegar, garlic, and ginger. Pour over the ribs. \n \nCover with foil and bake for 2.5 hours, basting occasionally with the sauce. \n \nRemove foil, increase oven to 400°F (200°C), and bake for 15-20 minutes until \ncaramelized. \n \nGarnish with green onions and serve. \n \n \n \nMoroccan Chicken Tagine \nIngredients: \n \n4 chicken thighs \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 cup chicken broth \n \n1/2 cup dried apricots, chopped \n \n1/2 cup green olives \n \n1 tablespoon olive oil \n \n1 teaspoon cumin \n \n1 teaspoon cinnamon \n \n1 teaspoon turmeric \n \nSalt and pepper to taste"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_1",
+      "page": 10,
+      "refined_text": "Ca Tim Nuong (Grilled Eggplant) \n \nIngredients: \no 2 eggplants \no 2 cloves garlic \no 2 tablespoons fish sauce \no 1 tablespoon lime juice \no 1 tablespoon sugar \no 1/4 cup cilantro \n \nInstructions: \no Grill eggplants until charred and tender. \no Peel and slice eggplants. \no Mix minced garlic, fish sauce, lime juice, and sugar in a bowl. \no Toss eggplants with the dressing. \no Garnish with chopped cilantro and serve. \n \nCallaloo \n \nIngredients: \no 1 pound callaloo leaves \no 1 small onion \no 2 cloves garlic \no 1/4 cup coconut milk \no 1 teaspoon thyme \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Sauté diced onion and minced garlic until softened. \no Add callaloo leaves and cook until wilted. \no Stir in coconut milk, thyme, salt, and pepper. \no Simmer for 10 minutes. \no Serve warm. \n \nCanh Chua \n \nIngredients: \no 4 cups fish stock \no 1/2 pound fish fillets \no 1 cup pineapple \no 1 cup tomatoes \no 1 cup bean sprouts \no 2 stalks lemongrass"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_1",
+      "page": 8,
+      "refined_text": "Bratkartoffeln (Fried Potatoes) \n \nIngredients: \no 4 potatoes \no 1 small onion \no 1/4 cup bacon \no 2 tablespoons butter \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Boil potatoes until tender, then slice. \no Cook diced bacon until crispy, then remove and set aside. \no Sauté sliced potatoes and diced onion in butter until golden. \no Stir in bacon, salt, and pepper. \no Serve warm. \n \nBriam \n \nIngredients: \no 2 potatoes \no 2 zucchinis \no 2 eggplants \no 2 tomatoes \no 1 small onion \no 4 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon oregano \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Preheat oven to 375°F (190°C). \no Slice potatoes, zucchinis, eggplants, and tomatoes. \no Sauté diced onion and minced garlic in olive oil until softened. \no Layer vegetables in a baking dish, seasoning with oregano, salt, and pepper. \no Pour sautéed onion and garlic over the top. \no Bake for 45 minutes until vegetables are tender. \no Serve warm. \n \nBriouats \n \nIngredients: \no 1/2 pound ground beef"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_1",
+      "page": 7,
+      "refined_text": "Bolinho de Bacalhau \n \nIngredients: \no 1 pound salted cod \no 4 potatoes \no 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 2 eggs \no 1 cup breadcrumbs \no Oil for frying \n \nInstructions: \no Soak salted cod in water overnight, then rinse and flake. \no Boil potatoes until tender, then mash. \no Mix cod with mashed potatoes, diced onion, minced garlic, chopped parsley, and \nbeaten eggs. \no Form mixture into balls and coat with breadcrumbs. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBouillabaisse \n \nIngredients: \no 1 pound fish fillets \no 1/2 pound shrimp \no 1/2 pound mussels \no 1 small onion \no 2 cloves garlic \no 4 tomatoes \no 4 cups fish stock \no 1/2 cup white wine \no 1 teaspoon saffron \no 1 teaspoon thyme \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Sauté diced onion and minced garlic in olive oil until softened."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_2",
+      "page": 14,
+      "refined_text": "Gurkensalat (Cucumber Salad) \n \nIngredients: \no 2 cucumbers \no 1/4 cup sour cream \no 2 tablespoons vinegar \no 1 tablespoon sugar \no 1 teaspoon dill \no 1 teaspoon salt \n \nInstructions: \no Slice cucumbers thinly. \no Mix sour cream, vinegar, sugar, dill, and salt in a bowl. \no Toss cucumbers with the dressing. \no Serve chilled. \n \nGyeran Jjim \n \nIngredients: \no 4 eggs \no 1 cup water \no 1/4 cup green onions \no 1 teaspoon salt \no 1/2 teaspoon sesame oil \n \nInstructions: \no Beat eggs with water, salt, and chopped green onions. \no Pour mixture into a heatproof bowl. \no Steam for 10-15 minutes until set. \no Drizzle with sesame oil and serve warm. \n \nHarira \n \nIngredients: \no 1 cup lentils \no 1/2 cup chickpeas \no 1 small onion"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_2",
+      "page": 13,
+      "refined_text": "Green Bean Casserole \n \nIngredients: \no 4 cups green beans \no 1 can cream of mushroom soup \no 1/2 cup milk \no 1 cup fried onions \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Preheat oven to 350°F (175°C). \no Cook green beans until tender. \no Mix soup, milk, salt, and pepper in a baking dish. \no Add green beans and half of the fried onions, stir to combine. \no Bake for 25 minutes. \no Top with remaining fried onions and bake for an additional 5 minutes. \no Serve warm. \n \nGuacamole \n \nIngredients: \no 3 avocados \no 1 lime"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_2",
+      "page": 12,
+      "refined_text": "Gomae (Spinach with Sesame Dressing) \n \nIngredients: \no 1 bunch spinach \no 2 tablespoons sesame seeds \no 1 tablespoon soy sauce \no 1 tablespoon sugar \no 1 tablespoon mirin \n \nInstructions: \no Blanch spinach in boiling water, then rinse in cold water and squeeze out excess \nmoisture. \no Toast sesame seeds and grind them. \no Mix sesame seeds with soy sauce, sugar, and mirin. \no Toss spinach with dressing and serve. \n \nGratin Dauphinois \n \nIngredients: \no 4 potatoes \no 1 cup heavy cream \no 1/2 cup milk \no 2 cloves garlic \no 1/2 cup grated Gruyère cheese \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Preheat oven to 375°F (190°C). \no Peel and thinly slice potatoes. \no Rub a baking dish with a cut clove of garlic."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 14,
+      "refined_text": "Pad See Ew \n \nIngredients: \no 8 ounces wide rice noodles \no 1/2 pound chicken breast \no 1 cup broccoli \no 2 eggs \no 2 tablespoons soy sauce \no 2 tablespoons oyster sauce \no 1 tablespoon sugar \no 1 tablespoon vegetable oil \n \nInstructions: \no Soak rice noodles in warm water until softened, then drain. \no Sauté sliced chicken in vegetable oil until cooked, then set aside. \no Scramble eggs in the same pan. \no Add noodles, soy sauce, oyster sauce, and sugar, stir to combine. \no Add broccoli and cooked chicken, stir-fry until heated through. \no Serve warm. \n \nPad Thai \n \nIngredients: \no 8 ounces rice noodles \no 1/2 pound shrimp \no 2 eggs \no 1 cup bean sprouts \no 1/4 cup peanuts \no 2 tablespoons fish sauce \no 2 tablespoons tamarind paste \no 1 tablespoon sugar \no 1 tablespoon lime juice \no 1/4 cup green onions \n \nInstructions: \no Soak rice noodles in warm water until softened, then drain. \no Sauté shrimp in a pan until cooked, then set aside."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 3,
+      "refined_text": "Käsespätzle (Cheese Noodles) \n \nIngredients: \no 2 cups flour \no 1/2 cup milk \no 3 eggs \no 1 teaspoon salt \no 1/4 teaspoon nutmeg \no 1/4 cup butter \no 1 cup grated cheese \no 1 small onion \n \nInstructions: \no Mix flour, milk, beaten eggs, salt, and nutmeg to form a batter. \no Press batter through a spaetzle maker or colander into boiling water. \no Cook until spaetzle floats to the surface, then drain. \no Sauté sliced onion in butter until golden. \no Layer spaetzle and grated cheese in a baking dish, top with sautéed onion. \no Bake at 350°F (175°C) for 15 minutes until cheese is melted. \no Serve warm. \n \nKartoffelsalat (Potato Salad) \n \nIngredients: \no 4 potatoes \no 1 small onion \no 1/4 cup bacon \no 1/4 cup vinegar \no 1/4 cup chicken broth \no 1 tablespoon mustard \no 1 teaspoon sugar \no 1 teaspoon salt \no 1/2 teaspoon pepper"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 12,
+      "refined_text": "Nom Du Du (Green Papaya Salad) \n \nIngredients: \no 1 green papaya \no 2 carrots \no 1/4 cup peanuts \no 1/4 cup cilantro \no 2 tablespoons fish sauce \no 2 tablespoons lime juice \no 1 tablespoon sugar \no 1-2 Thai chilies \n \nInstructions: \no Peel and shred green papaya and carrots. \no Crush peanuts and chop cilantro. \no Mix fish sauce, lime juice, sugar, and sliced chilies in a bowl. \no Toss shredded papaya, carrots, peanuts, and cilantro with the dressing. \no Serve chilled. \n \nNuoc Cham \n \nIngredients: \no 1/4 cup fish sauce \no 1/4 cup lime juice \no 2 tablespoons sugar"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 8,
+      "refined_text": "Mango Sticky Rice \n \nIngredients: \no 1 cup glutinous rice \no 1 cup coconut milk \no 1/4 cup sugar \no 1/4 teaspoon salt \no 2 mangoes \n \nInstructions: \no Rinse rice and soak in water for 1 hour. \no Steam rice until tender. \no Heat coconut milk with sugar and salt until dissolved."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 13,
+      "refined_text": "Onigiri (Rice Balls) \n \nIngredients: \no 2 cups cooked sushi rice \no 1/4 cup filling (salmon, pickled plum) \no 1 sheet nori (seaweed) \n \nInstructions: \no Wet hands and shape rice into balls or triangles. \no Make a small indentation and add filling. \no Wrap with a strip of nori. \no Serve immediately. \n \nPão de Queijo \n \nIngredients: \no 2 cups tapioca flour \no 1 cup milk \no 1/2 cup butter \no 1 teaspoon salt \no 1 cup grated Parmesan cheese \no 2 eggs \n \nInstructions: \no Preheat oven to 375°F (190°C). \no Heat milk, butter, and salt in a saucepan until boiling."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 3,
+      "refined_text": "Kartoffelsalat (Potato Salad) \n \nIngredients: \no 4 potatoes \no 1 small onion \no 1/4 cup bacon \no 1/4 cup vinegar \no 1/4 cup chicken broth \no 1 tablespoon mustard \no 1 teaspoon sugar \no 1 teaspoon salt \no 1/2 teaspoon pepper"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 0,
+      "refined_text": "Hot and Sour Soup \n \nIngredients: \no 4 cups chicken broth \no 1/2 cup sliced mushrooms \no 1/4 cup bamboo shoots \no 1/4 cup tofu \no 2 tablespoons soy sauce \no 2 tablespoons rice vinegar \no 1 tablespoon cornstarch \no 1 teaspoon chili paste \no 1 egg \no 1/4 cup chopped green onions \n \nInstructions: \no Bring chicken broth to a boil. \no Add mushrooms, bamboo shoots, tofu, soy sauce, rice vinegar, and chili paste. \no Mix cornstarch with water and add to the soup, stirring until thickened. \no Beat egg and slowly pour into the soup, stirring constantly. \no Garnish with chopped green onions and serve."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 13,
+      "refined_text": "Pão de Queijo \n \nIngredients: \no 2 cups tapioca flour \no 1 cup milk \no 1/2 cup butter \no 1 teaspoon salt \no 1 cup grated Parmesan cheese \no 2 eggs \n \nInstructions: \no Preheat oven to 375°F (190°C). \no Heat milk, butter, and salt in a saucepan until boiling."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_3",
+      "page": 10,
+      "refined_text": "Moqueca de Banana \n \nIngredients: \no 4 bananas \no 1 small onion \no 2 cloves garlic \no 1 bell pepper \no 2 tomatoes \no 1 cup coconut milk \no 1/4 cup cilantro \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Sauté diced onion, minced garlic, and sliced bell pepper until softened. \no Add diced tomatoes and cook for 5 minutes. \no Stir in coconut milk, sliced bananas, salt, and pepper. \no Simmer for 10 minutes. \no Garnish with chopped cilantro and serve warm."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_4",
+      "page": 14,
+      "refined_text": "Som Tum (Green Papaya Salad) \n \nIngredients: \no 1 green papaya \no 2 tomatoes \no 1 carrot \no 2 cloves garlic \no 2 tablespoons fish sauce \no 2 tablespoons lime juice \no 1 tablespoon sugar \no 1 tablespoon peanuts \no 1-2 Thai chilies \n \nInstructions: \no Peel and shred green papaya and carrot. \no Crush garlic and chilies in a mortar and pestle. \no Add fish sauce, lime juice, and sugar, mix well. \no Toss shredded papaya, carrot, and sliced tomatoes with the dressing. \no Garnish with crushed peanuts and serve. \n \nSopa de Tortilla \n \nIngredients: \no 4 corn tortillas \no 1 tablespoon vegetable oil \no 1 small onion \no 2 cloves garlic \no 4 cups chicken broth \no 2 tomatoes \no 1 teaspoon cumin \no 1 avocado \no 1/4 cup cilantro \n \nInstructions: \no Cut tortillas into strips and fry in oil until crispy. \no Sauté diced onion and minced garlic in a pot until translucent. \no Add diced tomatoes and cumin, cook for 5 minutes. \no Pour in chicken broth and bring to a boil. \no Simmer for 10 minutes. \no Serve soup topped with tortilla strips, diced avocado, and chopped cilantro."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_4",
+      "page": 8,
+      "refined_text": "Rice and Peas \n \nIngredients: \no 1 cup rice \no 1 cup coconut milk \no 1 cup water \no 1/2 cup kidney beans \no 1 small onion \no 2 cloves garlic \no 1 teaspoon thyme \no 1 teaspoon salt \n \nInstructions: \no Sauté diced onion and minced garlic until softened. \no Add rice, coconut milk, water, kidney beans, thyme, and salt. \no Bring to a boil, then reduce heat and simmer until rice is tender. \no Serve warm. \n \nRillettes \n \nIngredients: \no 1 pound pork shoulder \no 1/2 cup duck fat \no 1/4 cup white wine \no 1 teaspoon thyme \no 1 teaspoon salt \no 1/2 teaspoon pepper \n \nInstructions: \no Cut pork into small pieces. \no Cook pork with duck fat, wine, thyme, salt, and pepper in a pot over low heat \nuntil very tender (about 3 hours). \no Shred pork with a fork and pack into jars."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_4",
+      "page": 3,
+      "refined_text": "Pimientos de Padrón \n \nIngredients: \no 1 pound Padrón peppers \no 2 tablespoons olive oil \no 1 teaspoon sea salt \n \nInstructions: \no Heat olive oil in a pan. \no Add Padrón peppers and sauté until blistered and tender. \no Sprinkle with sea salt and serve warm. \n \nPlantain Chips \n \nIngredients: \no 2 green plantains \no 1 cup vegetable oil \no 1 teaspoon salt \n \nInstructions: \no Peel and slice plantains thinly. \no Heat oil in a pan and fry plantain slices until crispy. \no Drain on paper towels and sprinkle with salt. \no Serve warm. \nPolenta \n \nIngredients: \no 1 cup cornmeal \no 4 cups water \no 1 teaspoon salt \no 2 tablespoons butter \no 1/2 cup grated Parmesan cheese \n \nInstructions: \no Bring water and salt to a boil. \no Gradually whisk in cornmeal. \no Reduce heat and cook, stirring constantly, until thickened (about 30 minutes)."
+    },
+    {
+      "doc": "Dinner Ideas - Sides_4",
+      "page": 7,
+      "refined_text": "Rau Muong Xao Toi (Stir-Fried Morning Glory with Garlic) \n \nIngredients: \no 1 pound morning glory \no 4 cloves garlic \no 2 tablespoons fish sauce \no 1 tablespoon vegetable oil \n \nInstructions: \no Sauté minced garlic in vegetable oil until fragrant. \no Add morning glory and stir-fry until tender. \no Add fish sauce and cook for 2 minutes. \no Serve warm. \n \nRefried Beans \n \nIngredients: \no 2 cups cooked pinto beans \no 1/4 cup lard or vegetable oil \no 1 small onion \no 1 clove garlic \no 1 teaspoon salt \n \nInstructions: \no Heat lard or oil in a pan and sauté diced onion and minced garlic until \ntranslucent. \no Add beans and mash with a potato masher. \no Cook, stirring frequently, until beans are thickened. \no Add salt to taste and serve. \n \nRfissa \n \nIngredients: \no 1 pound chicken \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon turmeric \no 1 teaspoon ginger"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_4",
+      "page": 9,
+      "refined_text": "Rösti (Potato Pancakes) \n \nIngredients: \no 4 potatoes \no 1 small onion \no 1/4 cup flour \no 1 egg \no 1 teaspoon salt \no 1/2 teaspoon pepper \no Oil for frying \n \nInstructions: \no Grate potatoes and onion, then squeeze out excess moisture. \no Mix with flour, beaten egg, salt, and pepper. \no Form mixture into patties. \no Fry in hot oil until golden on both sides. \no Drain on paper towels and serve warm. \n \nRotkohl (Braised Red Cabbage)  \n \nIngredients: \no 1 head red cabbage \no 1 small onion \no 1 apple"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_4",
+      "page": 0,
+      "refined_text": "Pan con Tomate \n \nIngredients: \no 1 baguette \no 4 tomatoes \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n \nInstructions: \no Slice baguette and toast until golden. \no Rub toasted bread with cut garlic cloves. \no Grate tomatoes and spread on bread. \no Drizzle with olive oil and sprinkle with salt. \no Serve immediately. \n \nPaneer Tikka \n \nIngredients: \no 1 pound paneer \no 1/2 cup yogurt \no 1 tablespoon lemon juice \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon garam masala \no 1 teaspoon turmeric"
+    },
+    {
+      "doc": "Dinner Ideas - Sides_4",
+      "page": 14,
+      "refined_text": "Sopa de Tortilla \n \nIngredients: \no 4 corn tortillas \no 1 tablespoon vegetable oil \no 1 small onion \no 2 cloves garlic \no 4 cups chicken broth \no 2 tomatoes \no 1 teaspoon cumin \no 1 avocado \no 1/4 cup cilantro \n \nInstructions: \no Cut tortillas into strips and fry in oil until crispy. \no Sauté diced onion and minced garlic in a pot until translucent. \no Add diced tomatoes and cumin, cook for 5 minutes. \no Pour in chicken broth and bring to a boil. \no Simmer for 10 minutes. \no Serve soup topped with tortilla strips, diced avocado, and chopped cilantro."
+    }
+  ],
+  "processing_timestamp": "2025-07-25T04:10:23.171703"
+}
