@@ -60,5 +60,5 @@ With scalable architecture and modular design, this solution is ready to extend 
 
 ---
 
- Team: GenCipher  
- Authors: Shubham Srivastava , Aditya Anand  
+
+ Authors: Shubham Srivastava
